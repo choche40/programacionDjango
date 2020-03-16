@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\app",
+    "\\app\\migrations",
     "\\app\\static",
     "\\app\\templates",
-    "\\app\\templates\\app",
     "\\ProgramacionII"
   ],
-  "SelectedNode": "\\app\\templates\\app\\index.html",
+  "SelectedNode": "\\app\\migrations\\__init__.py",
   "PreviewInSolutionExplorer": false
 }
